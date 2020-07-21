@@ -1,0 +1,3 @@
+4
+ontable_A ontable_B clear_B clear_D on_C_A on_D_C empty
+ontable_C clear_B on_D_C on_A_D on_B_A empty
